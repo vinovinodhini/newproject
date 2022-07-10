@@ -24,5 +24,10 @@ public static void main(String[] args) {
 	dk.desktopModel();
 	dk.hardwareResources();
 	dk.softwareResources();
+	//git push and pull
+	int  a=10;
+	int b=10;
+	int c=a+b;
+	System.out.println(c);
 }
 }
